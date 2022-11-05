@@ -4,6 +4,6 @@ My learning diary, initiated during fac26
 
 ---
 
-## What have I learnt today?
+## What have I learnt today/this week?
 
-- <code>console.group</code> and <code>console.groupEnd</code> - they just make *so* much sense. 
+- <code>data-state/code> - to create a more reactive and accessible keyboard for my Wordle dummy clone, I've been working with data-states to implement changes in the CSS of the application. 
